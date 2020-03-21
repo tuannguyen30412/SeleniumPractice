@@ -1,0 +1,11 @@
+PagesForLoadableComponent\LoginPage.class
+PagesForLoadableComponent\HomePage.class
+PagesForLoadableComponent\BasePage.class
+PagesForLoadableComponent\Page.class
+utilsForLoadableComponent\ThreadLocalDriver.class
+PagesForPOM\HomePage.class
+utilsForLoadableComponent\OptionsManager.class
+PagesForPOM\LoginPage.class
+PagesForPOM\Page.class
+utilsForLoadableComponent\CapabilityFactory.class
+PagesForPOM\BasePage.class

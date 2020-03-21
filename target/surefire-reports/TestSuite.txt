@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 17.677 s <<< FAILURE! - in TestSuite
+setupTestClass(tests.KariyerVisualTest)  Time elapsed: 16.948 s  <<< FAILURE!
+org.openqa.selenium.UnableToSetCookieException: 
+unable to set cookie
+  (Session info: chrome=80.0.3987.149)
+Build info: version: '4.0.0-alpha-4', revision: 'c2d955b49e'
+System info: host: 'DESKTOP-073EAR3', ip: '192.168.1.125', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.149, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\TUNGUY~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60827}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7a985c65f7c39600141f2c2bdfb473a8
+

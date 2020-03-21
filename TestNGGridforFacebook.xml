@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite thread-count="2" name="Suite" parallel="tests" >
+    <test name="com.FirstTest" parallel="methods" thread-count="5">
+        <classes>
+            <class name="seleniumTestNGGridTest.GridExampleTest">
+            </class>
+        </classes>
+    </test>
+</suite>
